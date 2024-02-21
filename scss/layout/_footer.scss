@@ -1,0 +1,19 @@
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.footer {
+  &-container {
+    text-align: center;
+  }
+
+  &-name {
+    font-size: 80px;
+  }
+
+  &-sign {
+    margin-bottom: 40px;
+  }
+}
